@@ -11,3 +11,5 @@ which is called "tidy_data.txt"
 4) Column: "status"
    contains the activity which is labeled manually. For example, for a set of sensor data , comes to an specific
    activity, such as standing or layhing or walking.
+5) Column: "data_tag"
+   contains the information: whether this data row is data for training or for testing.
